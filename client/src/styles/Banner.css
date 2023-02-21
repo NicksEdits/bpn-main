@@ -1,0 +1,15 @@
+.navbar .nav-item{
+    margin-right: 45px;
+}
+.navbar .nav-item .nav-link:hover {
+color:gold;
+}
+.navbar .nav-item .nav-link.active {
+    color:gold;
+}
+
+.navbar-collapse .nav-item .nav-link:hover {
+    color:gold;
+}
+
+    

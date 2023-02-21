@@ -1,0 +1,52 @@
+.buttonAllWorkout{
+    background-color: #212529;
+    color: white;
+
+}
+.buttonAllWorkout:hover{
+    background-color: gold;
+    color:black;
+}
+
+.buttonModalEdit{
+    background-color: gold;
+    color:black;
+}
+
+.buttonDeleteExercise{
+    background-color: #212529;
+    color:white;
+
+}
+.buttonDeleteExercise:hover{
+    background-color: red;
+    color:white;
+}
+.buttonEditExercise{
+    background-color: #212529;
+    color: white;
+
+}
+.buttonEditExercise:hover{
+    background-color: gold;
+    color:black;
+}
+
+.buttonAddExercise{
+    background-color: #212529;
+    color:white;
+}
+.buttonAddExercise:hover{
+    background-color: #198754;
+    color:white;
+}
+
+.buttonAddWorkout{
+    background-color: #212529;
+    color:white;
+
+}
+.buttonAddWorkout:hover{
+    background-color: #198754;
+    color:white;
+}
